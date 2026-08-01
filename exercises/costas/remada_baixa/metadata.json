@@ -1,0 +1,24 @@
+{
+  "id": "remada_baixa",
+  "exercise_pt": "Remada baixa",
+  "exercise_en": "Seated Cable Row",
+  "category": "costas",
+  "primary_muscle": "latissimo_do_dorso",
+  "secondary_muscles": [
+    "romboides",
+    "trapezio_medio",
+    "biceps_braquial",
+    "deltoide_posterior"
+  ],
+  "equipment": "Polia baixa",
+  "files": {
+    "thumb": "thumb.webp",
+    "full": "full.webp",
+    "start": "start.webp",
+    "end": "end.webp",
+    "video_frontal": "video_frontal.mp4",
+    "video_lateral": "video_lateral.mp4"
+  },
+  "media_status": "complete",
+  "media_version": 1
+}
