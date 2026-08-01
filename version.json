@@ -1,6 +1,7 @@
 {
   "version": 1,
-  "exerciseGroupCount": 17,
-  "muscleCount": 45,
-  "placeholderCount": 63
+  "exercise_count": 257,
+  "category_count": 16,
+  "generated_in_last_run": 257,
+  "complete_media_preserved": 0
 }

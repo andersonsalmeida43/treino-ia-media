@@ -1,0 +1,24 @@
+{
+  "id": "extensao_lombar_na_maquina",
+  "exercise_pt": "Extensão lombar na máquina",
+  "exercise_en": "",
+  "category": "lombar",
+  "aliases": [],
+  "primary_muscle": "eretores_da_espinha",
+  "secondary_muscles": [],
+  "equipment": "máquina",
+  "movement_type": "",
+  "body_position": "",
+  "difficulty": "",
+  "movement_plane": "",
+  "laterality": "bilateral",
+  "kinetic_chain": "",
+  "files": {
+    "thumb": "thumb.webp",
+    "full": "full.webp",
+    "start": "start.webp",
+    "end": "end.webp"
+  },
+  "media_status": "placeholder",
+  "media_version": 1
+}

@@ -1,11 +1,9 @@
 # Treino IA Media
 
-Biblioteca oficial de mídias do Treino IA.
+Biblioteca de mídia do Treino IA / MedSport AI.
 
-Estrutura:
+- Categorias: 16
+- Exercícios: 257
+- Arquivos por exercício: `full.webp`, `start.webp`, `end.webp`, `thumb.webp`, `metadata.json` e `README.md`.
 
-- exercises/
-- muscles/
-- body/
-- icons/
-- placeholders/
+Os arquivos WebP iniciais são placeholders. Substitua cada mídia oficial mantendo o mesmo nome e altere `media_status` para `complete` no `metadata.json`.

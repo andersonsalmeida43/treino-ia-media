@@ -1,0 +1,24 @@
+{
+  "id": "hip_thrust_no_smith",
+  "exercise_pt": "Hip thrust no smith",
+  "exercise_en": "",
+  "category": "gluteos",
+  "aliases": [],
+  "primary_muscle": "gluteo_maximo",
+  "secondary_muscles": [],
+  "equipment": "smith machine",
+  "movement_type": "",
+  "body_position": "",
+  "difficulty": "",
+  "movement_plane": "",
+  "laterality": "bilateral",
+  "kinetic_chain": "",
+  "files": {
+    "thumb": "thumb.webp",
+    "full": "full.webp",
+    "start": "start.webp",
+    "end": "end.webp"
+  },
+  "media_status": "placeholder",
+  "media_version": 1
+}

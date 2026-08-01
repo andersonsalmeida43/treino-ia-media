@@ -1,0 +1,24 @@
+{
+  "id": "remo_ergometrico",
+  "exercise_pt": "Remo ergométrico",
+  "exercise_en": "",
+  "category": "cardio",
+  "aliases": [],
+  "primary_muscle": "sistema_cardiorrespiratorio",
+  "secondary_muscles": [],
+  "equipment": "remo ergométrico",
+  "movement_type": "",
+  "body_position": "",
+  "difficulty": "",
+  "movement_plane": "",
+  "laterality": "bilateral",
+  "kinetic_chain": "",
+  "files": {
+    "thumb": "thumb.webp",
+    "full": "full.webp",
+    "start": "start.webp",
+    "end": "end.webp"
+  },
+  "media_status": "placeholder",
+  "media_version": 1
+}

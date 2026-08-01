@@ -1,0 +1,24 @@
+{
+  "id": "flexora_em_pe",
+  "exercise_pt": "Flexora em pé",
+  "exercise_en": "",
+  "category": "isquiotibiais",
+  "aliases": [],
+  "primary_muscle": "isquiotibiais",
+  "secondary_muscles": [],
+  "equipment": "peso corporal ou equipamento específico",
+  "movement_type": "",
+  "body_position": "",
+  "difficulty": "",
+  "movement_plane": "",
+  "laterality": "bilateral",
+  "kinetic_chain": "",
+  "files": {
+    "thumb": "thumb.webp",
+    "full": "full.webp",
+    "start": "start.webp",
+    "end": "end.webp"
+  },
+  "media_status": "placeholder",
+  "media_version": 1
+}

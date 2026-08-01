@@ -1,24 +1,22 @@
 {
   "id": "supino_reto_com_barra",
   "exercise_pt": "Supino reto com barra",
-  "exercise_en": "",
+  "exercise_en": "Barbell Bench Press",
   "category": "peitoral",
-  "aliases": [],
   "primary_muscle": "peitoral_maior",
-  "secondary_muscles": [],
-  "equipment": "barra",
-  "movement_type": "",
-  "body_position": "",
-  "difficulty": "",
-  "movement_plane": "",
-  "laterality": "bilateral",
-  "kinetic_chain": "",
+  "secondary_muscles": [
+    "triceps_braquial",
+    "deltoide_anterior"
+  ],
+  "equipment": "Barra e banco reto",
   "files": {
     "thumb": "thumb.webp",
     "full": "full.webp",
     "start": "start.webp",
-    "end": "end.webp"
+    "end": "end.webp",
+    "video_frontal": "video_frontal.mp4",
+    "video_lateral": "video_lateral.mp4"
   },
-  "media_status": "placeholder",
+  "media_status": "complete",
   "media_version": 1
 }

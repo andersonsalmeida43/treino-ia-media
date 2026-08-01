@@ -1,0 +1,24 @@
+{
+  "id": "coice_na_maquina",
+  "exercise_pt": "Coice na máquina",
+  "exercise_en": "",
+  "category": "gluteos",
+  "aliases": [],
+  "primary_muscle": "gluteo_maximo",
+  "secondary_muscles": [],
+  "equipment": "máquina",
+  "movement_type": "",
+  "body_position": "",
+  "difficulty": "",
+  "movement_plane": "",
+  "laterality": "bilateral",
+  "kinetic_chain": "",
+  "files": {
+    "thumb": "thumb.webp",
+    "full": "full.webp",
+    "start": "start.webp",
+    "end": "end.webp"
+  },
+  "media_status": "placeholder",
+  "media_version": 1
+}

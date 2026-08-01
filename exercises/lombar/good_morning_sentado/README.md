@@ -1,0 +1,17 @@
+# Good morning sentado
+
+- **ID:** `good_morning_sentado`
+- **Categoria:** Lombar
+- **Músculo principal:** Eretores Da Espinha
+- **Equipamento:** peso corporal ou equipamento específico
+- **Status da mídia:** `placeholder`
+
+## Arquivos
+
+- `full.webp`
+- `start.webp`
+- `end.webp`
+- `thumb.webp`
+- `metadata.json`
+
+Substitua os placeholders pelas imagens oficiais mantendo os mesmos nomes.

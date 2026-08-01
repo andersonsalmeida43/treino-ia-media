@@ -1,0 +1,24 @@
+{
+  "id": "flexao_de_punho_com_barra",
+  "exercise_pt": "Flexão de punho com barra",
+  "exercise_en": "",
+  "category": "antebracos",
+  "aliases": [],
+  "primary_muscle": "musculos_do_antebraco",
+  "secondary_muscles": [],
+  "equipment": "barra",
+  "movement_type": "",
+  "body_position": "",
+  "difficulty": "",
+  "movement_plane": "",
+  "laterality": "bilateral",
+  "kinetic_chain": "",
+  "files": {
+    "thumb": "thumb.webp",
+    "full": "full.webp",
+    "start": "start.webp",
+    "end": "end.webp"
+  },
+  "media_status": "placeholder",
+  "media_version": 1
+}
