@@ -1,0 +1,24 @@
+{
+  "id": "crucifixo_inverso_com_halteres",
+  "exercise_pt": "Crucifixo inverso com halteres",
+  "exercise_en": "",
+  "category": "ombros",
+  "aliases": [],
+  "primary_muscle": "deltoide_posterior",
+  "secondary_muscles": [],
+  "equipment": "halteres",
+  "movement_type": "",
+  "body_position": "",
+  "difficulty": "",
+  "movement_plane": "",
+  "laterality": "bilateral",
+  "kinetic_chain": "",
+  "files": {
+    "thumb": "thumb.webp",
+    "full": "full.webp",
+    "start": "start.webp",
+    "end": "end.webp"
+  },
+  "media_status": "placeholder",
+  "media_version": 1
+}

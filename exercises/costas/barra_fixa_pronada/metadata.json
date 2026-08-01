@@ -1,0 +1,24 @@
+{
+  "id": "barra_fixa_pronada",
+  "exercise_pt": "Barra fixa pronada",
+  "exercise_en": "",
+  "category": "costas",
+  "aliases": [],
+  "primary_muscle": "latissimo_do_dorso",
+  "secondary_muscles": [],
+  "equipment": "barra",
+  "movement_type": "",
+  "body_position": "",
+  "difficulty": "",
+  "movement_plane": "",
+  "laterality": "bilateral",
+  "kinetic_chain": "",
+  "files": {
+    "thumb": "thumb.webp",
+    "full": "full.webp",
+    "start": "start.webp",
+    "end": "end.webp"
+  },
+  "media_status": "placeholder",
+  "media_version": 1
+}

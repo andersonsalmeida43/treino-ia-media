@@ -1,0 +1,24 @@
+{
+  "id": "rosca_alta_na_polia_dupla",
+  "exercise_pt": "Rosca alta na polia dupla",
+  "exercise_en": "",
+  "category": "biceps",
+  "aliases": [],
+  "primary_muscle": "biceps_braquial",
+  "secondary_muscles": [],
+  "equipment": "polia",
+  "movement_type": "",
+  "body_position": "",
+  "difficulty": "",
+  "movement_plane": "",
+  "laterality": "bilateral",
+  "kinetic_chain": "",
+  "files": {
+    "thumb": "thumb.webp",
+    "full": "full.webp",
+    "start": "start.webp",
+    "end": "end.webp"
+  },
+  "media_status": "placeholder",
+  "media_version": 1
+}
