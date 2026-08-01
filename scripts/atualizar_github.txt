@@ -1,0 +1,7 @@
+cd C:\Projetos\MedSport\treino-ia-media
+
+git add .
+
+git commit -m "Adiciona imagens da puxada neutra"
+
+git push
