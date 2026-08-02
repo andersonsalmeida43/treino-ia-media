@@ -1,24 +1,25 @@
 {
   "id": "agachamento_livre",
   "exercise_pt": "Agachamento livre",
-  "exercise_en": "",
-  "category": "quadriceps",
-  "aliases": [],
+  "exercise_en": "Barbell Back Squat",
+  "category": "pernas",
   "primary_muscle": "quadriceps",
-  "secondary_muscles": [],
-  "equipment": "peso corporal ou equipamento específico",
-  "movement_type": "",
-  "body_position": "",
-  "difficulty": "",
-  "movement_plane": "",
-  "laterality": "bilateral",
-  "kinetic_chain": "",
+  "secondary_muscles": [
+    "gluteo_maximo",
+    "isquiotibiais",
+    "adutores",
+    "eretores_da_espinha",
+    "core"
+  ],
+  "equipment": "Barra olímpica",
   "files": {
     "thumb": "thumb.webp",
     "full": "full.webp",
     "start": "start.webp",
-    "end": "end.webp"
+    "end": "end.webp",
+    "video_frontal": "video_frontal.mp4",
+    "video_lateral": "video_lateral.mp4"
   },
-  "media_status": "placeholder",
+  "media_status": "complete",
   "media_version": 1
 }

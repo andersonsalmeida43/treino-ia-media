@@ -1,24 +1,22 @@
 {
   "id": "rosca_martelo",
   "exercise_pt": "Rosca martelo",
-  "exercise_en": "",
-  "category": "biceps",
-  "aliases": [],
+  "exercise_en": "Hammer Curl",
+  "category": "bracos",
   "primary_muscle": "braquial",
-  "secondary_muscles": [],
-  "equipment": "peso corporal ou equipamento específico",
-  "movement_type": "",
-  "body_position": "",
-  "difficulty": "",
-  "movement_plane": "",
-  "laterality": "bilateral",
-  "kinetic_chain": "",
+  "secondary_muscles": [
+    "biceps_braquial",
+    "braquiorradial"
+  ],
+  "equipment": "Halteres",
   "files": {
     "thumb": "thumb.webp",
     "full": "full.webp",
     "start": "start.webp",
-    "end": "end.webp"
+    "end": "end.webp",
+    "video_frontal": "video_frontal.mp4",
+    "video_lateral": "video_lateral.mp4"
   },
-  "media_status": "placeholder",
+  "media_status": "complete",
   "media_version": 1
 }

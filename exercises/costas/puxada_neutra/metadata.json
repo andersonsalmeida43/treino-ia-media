@@ -1,24 +1,24 @@
 {
   "id": "puxada_neutra",
   "exercise_pt": "Puxada neutra",
-  "exercise_en": "",
+  "exercise_en": "Neutral Grip Lat Pulldown",
   "category": "costas",
-  "aliases": [],
   "primary_muscle": "latissimo_do_dorso",
-  "secondary_muscles": [],
-  "equipment": "peso corporal ou equipamento específico",
-  "movement_type": "",
-  "body_position": "",
-  "difficulty": "",
-  "movement_plane": "",
-  "laterality": "bilateral",
-  "kinetic_chain": "",
+  "secondary_muscles": [
+    "teres_maior",
+    "romboides",
+    "biceps_braquial",
+    "braquial"
+  ],
+  "equipment": "Polia alta",
   "files": {
     "thumb": "thumb.webp",
     "full": "full.webp",
     "start": "start.webp",
-    "end": "end.webp"
+    "end": "end.webp",
+    "video_frontal": "video_frontal.mp4",
+    "video_lateral": "video_lateral.mp4"
   },
-  "media_status": "placeholder",
+  "media_status": "complete",
   "media_version": 1
 }

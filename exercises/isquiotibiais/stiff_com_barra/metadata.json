@@ -1,24 +1,22 @@
 {
-  "id": "stiff_com_barra",
-  "exercise_pt": "Stiff com barra",
-  "exercise_en": "",
-  "category": "isquiotibiais",
-  "aliases": [],
+  "id": "stiff",
+  "exercise_pt": "Stiff",
+  "exercise_en": "Romanian Deadlift",
+  "category": "pernas",
   "primary_muscle": "isquiotibiais",
-  "secondary_muscles": [],
-  "equipment": "barra",
-  "movement_type": "",
-  "body_position": "",
-  "difficulty": "",
-  "movement_plane": "",
-  "laterality": "bilateral",
-  "kinetic_chain": "",
+  "secondary_muscles": [
+    "gluteo_maximo",
+    "eretores_da_espinha"
+  ],
+  "equipment": "Barra",
   "files": {
     "thumb": "thumb.webp",
     "full": "full.webp",
     "start": "start.webp",
-    "end": "end.webp"
+    "end": "end.webp",
+    "video_frontal": "video_frontal.mp4",
+    "video_lateral": "video_lateral.mp4"
   },
-  "media_status": "placeholder",
+  "media_status": "complete",
   "media_version": 1
 }

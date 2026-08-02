@@ -1,24 +1,21 @@
 {
   "id": "mesa_flexora",
   "exercise_pt": "Mesa flexora",
-  "exercise_en": "",
-  "category": "isquiotibiais",
-  "aliases": [],
+  "exercise_en": "Lying Leg Curl",
+  "category": "pernas",
   "primary_muscle": "isquiotibiais",
-  "secondary_muscles": [],
-  "equipment": "peso corporal ou equipamento específico",
-  "movement_type": "",
-  "body_position": "",
-  "difficulty": "",
-  "movement_plane": "",
-  "laterality": "bilateral",
-  "kinetic_chain": "",
+  "secondary_muscles": [
+    "gastrocnemio"
+  ],
+  "equipment": "Mesa flexora",
   "files": {
     "thumb": "thumb.webp",
     "full": "full.webp",
     "start": "start.webp",
-    "end": "end.webp"
+    "end": "end.webp",
+    "video_frontal": "video_frontal.mp4",
+    "video_lateral": "video_lateral.mp4"
   },
-  "media_status": "placeholder",
+  "media_status": "complete",
   "media_version": 1
 }

@@ -1,24 +1,22 @@
 {
   "id": "desenvolvimento_na_maquina",
   "exercise_pt": "Desenvolvimento na máquina",
-  "exercise_en": "",
+  "exercise_en": "Machine Shoulder Press",
   "category": "ombros",
-  "aliases": [],
-  "primary_muscle": "deltoide_anterior",
-  "secondary_muscles": [],
-  "equipment": "máquina",
-  "movement_type": "",
-  "body_position": "",
-  "difficulty": "",
-  "movement_plane": "",
-  "laterality": "bilateral",
-  "kinetic_chain": "",
+  "primary_muscle": "deltoide",
+  "secondary_muscles": [
+    "triceps_braquial",
+    "trapezio_superior"
+  ],
+  "equipment": "Máquina",
   "files": {
     "thumb": "thumb.webp",
     "full": "full.webp",
     "start": "start.webp",
-    "end": "end.webp"
+    "end": "end.webp",
+    "video_frontal": "video_frontal.mp4",
+    "video_lateral": "video_lateral.mp4"
   },
-  "media_status": "placeholder",
+  "media_status": "complete",
   "media_version": 1
 }
